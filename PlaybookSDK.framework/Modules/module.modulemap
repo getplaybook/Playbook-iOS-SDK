@@ -1,0 +1,11 @@
+framework module PlaybookSDK {
+  umbrella header "PlaybookSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module PlaybookSDK.Swift {
+    header "PlaybookSDK-Swift.h"
+    requires objc
+}
