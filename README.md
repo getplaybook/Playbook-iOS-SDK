@@ -1,4 +1,4 @@
-# Playbook IOS SDK#
+# Playbook IOS SDK
 
 # Installation
 
