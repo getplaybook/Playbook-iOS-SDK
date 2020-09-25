@@ -1,0 +1,19 @@
+{
+    "spinnerColor": "",
+    "fontFamily": "",
+    "mainColor": "",
+    "mainTitle": {
+        "en": "",
+        "tr": ""
+    },
+    "mainDescriptionText": {
+        "en": "",
+        "tr": ""
+    },
+    "categoryDescriptionText": {
+        "en": "",
+        "tr": ""
+    },
+    "QRModule": true,
+    "updatesModule": true
+}

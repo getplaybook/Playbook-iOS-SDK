@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 	s.name         = "PlaybookSDK"
 	s.version      = "1.0"
-	s.summary      = "UIKit based on SendBirdSDK"
+	s.summary      = "PlaybookSDK"
 	s.description  = "Playbook SDK for iOS application."
 	s.homepage     = "https://getplaybook.io"
 	s.documentation_url = 'https://doc.getplaybook.io'

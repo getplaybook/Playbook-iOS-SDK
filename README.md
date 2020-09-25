@@ -29,14 +29,20 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
             userGroups: ["..."], // User groups
             companyName: "Acme Academy" // 
         )
-        
+
         PlaybookSDK.extraSettings(PBExraSettingsData(
             spinnerColor: UIColor(red: 1.00, green: 0.85, blue: 0.10, alpha: 1.00),
             mainColor: UIColor(red: 1.00, green: 0.85, blue: 0.10, alpha: 1.00),
             mainTitle: [
                 "en": "Acme Academy",
                 "tr": "Acme Akademi"
+            ],
+            mainDescriptionText: [
+                "en": "Supercharge your skills with these short guides in various categories.",
+                "tr": "Çeşitli konu ve kategorilerdeki kısa rehberler ile kendini geliştir."
             ]
+            QRModule: true,
+            updateModule: true
         ))
         ...
 }
@@ -53,6 +59,19 @@ Prop | Description | Type | default
 `categoryDescriptionText` | Description of main screen | `[String: String]` | null
 `QRModule` | State of QRModule | `Bool` | true
 `updatesModule` | State of Update Module | `Bool` | true
+
+#### Peresenting ViewControllers
+
+In any UIViewController instance you can use methods listed below.
+
+```swift
+    // Presenting both academy and updates module
+    PlaybookSDK.presentListViewFrom(self, animated: true)
+    // Presenting only update module
+    PlaybookSDK.presentUpdatesListViewFrom(self, animated: true)
+    // Presenting only academy module
+    PlaybookSDK.presentAcademyListViewFrom(self, animated: true)
+```
 
 #### Remote notification for updates
 
