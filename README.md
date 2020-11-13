@@ -83,7 +83,7 @@ Please follow the three basic step below to localize the sdk for a new language.
 
 #### Presenting Academy, Updates or both
 
-In any UIViewController instance you can use methods listed below.
+In Playbook you can choose to display the main modules (Academy & Updates) separately at different places, or together. In any UIViewController instance you can use methods listed below.
 
 ```swift
     // Presenting both academy and updates module
