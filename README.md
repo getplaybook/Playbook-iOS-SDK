@@ -25,8 +25,8 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
          */
         PlaybookSDK.set(
             token: "...", // Your SDK token from app.getplaybook.io -> Settings -> App Settings
-            userID: "...", // Unique user id of your system
-            userGroups: ["..."], // An Array of user group ids from app.getplaybook.io -> User Groups -> External ID, External ID = 1 is for the Everyone User group
+            userID: "...", // A unique user id of your user
+            userGroups: ["..."], // An array of user group ids from app.getplaybook.io -> User Groups -> External ID, External ID = 1 is for the Everyone User group
             companyName: "Acme Academy" // Your Company Name
         )
         
@@ -73,7 +73,7 @@ First of all you should set available languages as shown code block below for th
     ])
 ```
 
-Current version of the SDK has localizated for only English, Turkish and Arabic yet. But developers can create their localization file from current JSON template. The example template can be found the main dir of the repository.
+Current version of the SDK has localizations for only English, Turkish and Arabic. But developers can create their localization files from the current JSON template. The example template can be found the main dir of the repository.
 
 Please follow the three basic step below to localize the sdk for a new language.
 
@@ -99,7 +99,7 @@ In Playbook you can choose to display the main modules (Academy & Updates) separ
 Notifications to your app sent for the Playbook SDK should have an **pb_update_id** in the payload section.
 ```javascript
   "data": {
-    "pb_update_id": "PU69a1" // Update ID from app.getplaybook.io -> Updates -> 
+    "pb_update_id": "PU69a1" // Update ID from app.getplaybook.io -> Updates -> Campaign ID
   }
 ```
 
