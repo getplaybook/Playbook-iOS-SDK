@@ -4,9 +4,9 @@
 
 #### CocoaPods
 
-Current version of **PlaybookSDK** is v1.2
+Current version of **PlaybookSDK** is v1.2.1
 ```
-pod "PlaybookSDK", :git => 'https://github.com/getplaybook/Playbook-iOS-SDK.git', :tag => '1.2'
+pod "PlaybookSDK", :git => 'https://github.com/getplaybook/Playbook-iOS-SDK.git', :tag => '1.2.1'
 ```
 
 #### Initialize PlaybookSDK
@@ -29,7 +29,8 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
             userGroups: ["..."], // User groups
             companyName: "Acme Academy" // 
         )
-
+        
+        /* This method is optional */
         PlaybookSDK.extraSettings(PBExraSettingsData(
             spinnerColor: UIColor(red: 1.00, green: 0.85, blue: 0.10, alpha: 1.00),
             mainColor: UIColor(red: 1.00, green: 0.85, blue: 0.10, alpha: 1.00),
@@ -59,6 +60,26 @@ Prop | Description | Type | default
 `categoryDescriptionText` | Description of main screen | `[String: String]` | null
 `QRModule` | State of QRModule | `Bool` | true
 `updatesModule` | State of Update Module | `Bool` | true
+
+#### Locale Your SDK
+
+First of all you should set available languages as shown code block below for the SDK.
+
+```swift
+    PlaybookSDK.set(availableLocales: [
+        Locale(identifier: "EN"),
+        Locale(identifier: "DE"),
+        Locale(identifier: "TR")
+    ])
+```
+
+Current version of the SDK has localizated for only English, Turkish and Arabic yet. But developers can create their localization file from current JSON template. The example template can be found the main dir of the repository.
+
+Please follow the three basic step below to localize the sdk for a new language.
+
+1. Set the available languages.
+2. Copy the example json to your bundle. The file must be in a `project relative folder` named **localization**.
+3. Replace name of file with language short descriptor. For example `de.json`.
 
 #### Peresenting ViewControllers
 
