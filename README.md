@@ -11,7 +11,7 @@ pod "PlaybookSDK", :git => 'https://github.com/getplaybook/Playbook-iOS-SDK.git'
 
 #### Initialize PlaybookSDK
 
-Initialize Playbook SDK with your settings information and open the Playbook Modal from any UIController.
+Initialize Playbook SDK with your settings information and open the Playbook Modal from any UIController. Here you'll need 3 critical information - your **SDK Token**, an **ID for your user** (given by you) and **the user group(s)** the user belongs to. 
 
 In your `UIApplicationDelegate` class you can setup playbook SDK with following code blocks:
 
@@ -24,10 +24,10 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
          Playbook Config
          */
         PlaybookSDK.set(
-            token: "...", // application client token
+            token: "...", // Your SDK token from app.getplaybook.io -> Settings -> App Settings
             userID: "...", // Unique user id of your system
-            userGroups: ["..."], // User groups
-            companyName: "Acme Academy" // 
+            userGroups: ["..."], // An Array of user group ids from app.getplaybook.io -> User Groups -> External ID, External ID = 1 is for the Everyone User group
+            companyName: "Acme Academy" // Your Company Name
         )
         
         /* This method is optional */
@@ -42,7 +42,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
                 "en": "Supercharge your skills with these short guides in various categories.",
                 "tr": "Çeşitli konu ve kategorilerdeki kısa rehberler ile kendini geliştir."
             ]
-            QRModule: true,
+            QRModule: true, 
             updateModule: true
         ))
         ...
@@ -81,7 +81,7 @@ Please follow the three basic step below to localize the sdk for a new language.
 2. Copy the example json to your bundle. The file must be in a `project relative folder` named **localization**.
 3. Replace name of file with language short descriptor. For example `de.json`.
 
-#### Peresenting ViewControllers
+#### Presenting Academy, Updates or both
 
 In any UIViewController instance you can use methods listed below.
 
@@ -95,6 +95,13 @@ In any UIViewController instance you can use methods listed below.
 ```
 
 #### Remote notification for updates
+
+Notifications to your app sent for the Playbook SDK should have an **pb_update_id** in the payload section.
+```javascript
+  "data": {
+    "pb_update_id": "PU69a1" // Update ID from app.getplaybook.io -> Updates -> 
+  }
+```
 
 In your `UIApplicationDelegate` class you can setup playbook SDK UpdateModule with following code blocks:
 
