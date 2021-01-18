@@ -4,9 +4,9 @@
 
 #### CocoaPods
 
-Current version of **PlaybookSDK** is v1.2.1
+Current version of **PlaybookSDK** is v1.3
 ```
-pod "PlaybookSDK", :git => 'https://github.com/getplaybook/Playbook-iOS-SDK.git', :tag => '1.2.1'
+pod "PlaybookSDK", :git => 'https://github.com/getplaybook/Playbook-iOS-SDK.git', :tag => '1.3'
 ```
 
 #### Initialize PlaybookSDK

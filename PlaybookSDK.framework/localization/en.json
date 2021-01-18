@@ -31,6 +31,7 @@
   "Question: {{currentQuestion}}/{{totalQuestion}}": "Question: {{currentQuestion}}/{{totalQuestion}}",
   "Previous": "Previous",
   "{{count}} Steps": "{{count}} Steps",
+  "Step {{index}}": "Step {{index}}",
   "Search": "Search",
   "Guides": "Guides",
   "Categories": "Categories",
@@ -51,5 +52,8 @@
   "Tap to go to the next step": "Tap to go to the next step",
   "Try Again!": "Try Again!",
   "Or tap to go to the next step": "Or tap to go to the next step",
-  "Try Again": "Try Again"
+  "Try Again": "Try Again",
+  "Failed": "Failed",
+  "You’ve completed the this test!": "You’ve completed the this test!",
+  "Your failed the test.": "Your failed the test."
 }

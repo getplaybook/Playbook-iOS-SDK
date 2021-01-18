@@ -31,6 +31,7 @@
   "Question: {{currentQuestion}}/{{totalQuestion}}": "Soru: {{currentQuestion}}/{{totalQuestion}}",
   "Previous": "Geri",
   "{{count}} Steps": "{{count}} Aşama",
+  "Step {{index}}": "Aşama {{index}}",
   "Search": "Ara",
   "Guides": "Rehberler",
   "Categories": "Kategoriler",
@@ -47,9 +48,12 @@
   "Correct": "Doğru",
   "Incorrect": "Yanlış",
   "Test Score": "Test Sonucu",
-  "Thats Correct!": "Thats Correct!",
+  "Thats Correct!": "Doğru!",
   "Tap to go to the next step": "Sonraki aşama için dokunun",
   "Try Again!": "Tekrar dene!",
   "Or tap to go to the next step": "Veya Sonraki aşama için dokunun",
-  "Try Again": "Tekrar dene"
+  "Try Again": "Tekrar dene",
+  "Failed": "Failed",
+  "You’ve completed the this test!": "Testi geçtiniz!",
+  "Your failed the test.": "Testten kaldınız."
 }
