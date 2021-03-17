@@ -22,23 +22,23 @@
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
-		NeuU5S6rWFeCVcwSiWPwuUBKo/Q=
+		kKIKXeNynhf6lbMB/4jaDrm2ha8=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		ftBSsta6K95xfSn7dfSPYfOKGmA=
+		0uF1c0n0GkC7Hur7tiHY15ohO3E=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		ftBSsta6K95xfSn7dfSPYfOKGmA=
+		0uF1c0n0GkC7Hur7tiHY15ohO3E=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		NeuU5S6rWFeCVcwSiWPwuUBKo/Q=
+		kKIKXeNynhf6lbMB/4jaDrm2ha8=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<data>
-		NeuU5S6rWFeCVcwSiWPwuUBKo/Q=
+		kKIKXeNynhf6lbMB/4jaDrm2ha8=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		pZKnUYfA4UrGU7wzxk+XG+uD9gk=
+		pgaMYkMZehCg2ua3BDNgF7uWPK4=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		B/PwS1/M05yOcvB7wGK0m/npw68=
+		ijNrnNgMJzVw4ECycE/M998k37M=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		B/PwS1/M05yOcvB7wGK0m/npw68=
+		ijNrnNgMJzVw4ECycE/M998k37M=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		pZKnUYfA4UrGU7wzxk+XG+uD9gk=
+		pgaMYkMZehCg2ua3BDNgF7uWPK4=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		pZKnUYfA4UrGU7wzxk+XG+uD9gk=
+		pgaMYkMZehCg2ua3BDNgF7uWPK4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -144,55 +144,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NeuU5S6rWFeCVcwSiWPwuUBKo/Q=
+			kKIKXeNynhf6lbMB/4jaDrm2ha8=
 			</data>
 			<key>hash2</key>
 			<data>
-			dMCeBMJGi7rYB+6TsiLsRrAkwFnZcS2GEld4tDz1uMQ=
+			d7nbNuSdTlxskpj22uXgN1dc4YY6PIyWZr5K1R6aX4U=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ftBSsta6K95xfSn7dfSPYfOKGmA=
+			0uF1c0n0GkC7Hur7tiHY15ohO3E=
 			</data>
 			<key>hash2</key>
 			<data>
-			Oj1f6N2mPHfwAY195w1u6BBxFU+VD7Z0dKJFm2YEklw=
+			X1J5GBORB2LSr+6LKs3p38TgY63XXoqQPHylEIn556s=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ftBSsta6K95xfSn7dfSPYfOKGmA=
+			0uF1c0n0GkC7Hur7tiHY15ohO3E=
 			</data>
 			<key>hash2</key>
 			<data>
-			Oj1f6N2mPHfwAY195w1u6BBxFU+VD7Z0dKJFm2YEklw=
+			X1J5GBORB2LSr+6LKs3p38TgY63XXoqQPHylEIn556s=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NeuU5S6rWFeCVcwSiWPwuUBKo/Q=
+			kKIKXeNynhf6lbMB/4jaDrm2ha8=
 			</data>
 			<key>hash2</key>
 			<data>
-			dMCeBMJGi7rYB+6TsiLsRrAkwFnZcS2GEld4tDz1uMQ=
+			d7nbNuSdTlxskpj22uXgN1dc4YY6PIyWZr5K1R6aX4U=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NeuU5S6rWFeCVcwSiWPwuUBKo/Q=
+			kKIKXeNynhf6lbMB/4jaDrm2ha8=
 			</data>
 			<key>hash2</key>
 			<data>
-			dMCeBMJGi7rYB+6TsiLsRrAkwFnZcS2GEld4tDz1uMQ=
+			d7nbNuSdTlxskpj22uXgN1dc4YY6PIyWZr5K1R6aX4U=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/arm.swiftdoc</key>
@@ -210,11 +210,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pZKnUYfA4UrGU7wzxk+XG+uD9gk=
+			pgaMYkMZehCg2ua3BDNgF7uWPK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			FWq6GHydaLVVBrrKOFy4GvfwgQ2FbSblM2VvvDJDBYk=
+			7eRdzu87p/W+eKMUoBL9WiHsBmn6hEv5OtYvrRMlAUU=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -232,11 +232,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B/PwS1/M05yOcvB7wGK0m/npw68=
+			ijNrnNgMJzVw4ECycE/M998k37M=
 			</data>
 			<key>hash2</key>
 			<data>
-			aywlIC19RoLszDl2H0/SZnW3PtOdJR/q2R2Vq92WRng=
+			kv/Luegr+HXrjDputp45xIIZ5nhrqX1yV+V5ZcKf86s=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64.swiftdoc</key>
@@ -254,11 +254,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B/PwS1/M05yOcvB7wGK0m/npw68=
+			ijNrnNgMJzVw4ECycE/M998k37M=
 			</data>
 			<key>hash2</key>
 			<data>
-			aywlIC19RoLszDl2H0/SZnW3PtOdJR/q2R2Vq92WRng=
+			kv/Luegr+HXrjDputp45xIIZ5nhrqX1yV+V5ZcKf86s=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -276,11 +276,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pZKnUYfA4UrGU7wzxk+XG+uD9gk=
+			pgaMYkMZehCg2ua3BDNgF7uWPK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			FWq6GHydaLVVBrrKOFy4GvfwgQ2FbSblM2VvvDJDBYk=
+			7eRdzu87p/W+eKMUoBL9WiHsBmn6hEv5OtYvrRMlAUU=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7.swiftdoc</key>
@@ -298,11 +298,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pZKnUYfA4UrGU7wzxk+XG+uD9gk=
+			pgaMYkMZehCg2ua3BDNgF7uWPK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			FWq6GHydaLVVBrrKOFy4GvfwgQ2FbSblM2VvvDJDBYk=
+			7eRdzu87p/W+eKMUoBL9WiHsBmn6hEv5OtYvrRMlAUU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

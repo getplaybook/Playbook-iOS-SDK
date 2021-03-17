@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name         = "PlaybookSDK"
-	s.version      = "1.4.1"
+	s.version      = "1.4.2"
 	s.summary      = "PlaybookSDK"
 	s.description  = "Playbook SDK for iOS application."
 	s.homepage     = "https://getplaybook.io"
