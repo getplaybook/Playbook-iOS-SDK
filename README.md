@@ -23,6 +23,15 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
         /**
          Playbook Config
          */
+         
+         // Language Configurations
+         PlaybookSDK.set(availableLocales: [
+                Locale(identifier: "EN"), // Default Language
+                Locale(identifier: "DE"),
+                Locale(identifier: "TR")
+        ])
+         
+        // General Configurations
         PlaybookSDK.set(
             token: "...", // Your SDK token from app.getplaybook.io -> Settings -> App Settings
             userID: "...", // A unique user id of your user
