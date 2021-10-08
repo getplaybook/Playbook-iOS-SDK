@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		FXTiYV9pIQLQPoU6fVq2Vbf6d4Y=
+		QM9i+9PVLXq50NF7WKPZ95+BWqg=
 		</data>
 		<key>Headers/PlaybookSDK-Swift.h</key>
 		<data>
-		+SoJC87XIJwo8TqTS5Jx31nwSq4=
+		RFtW/vz/HJdH3IPEB8U8LPYo3QU=
 		</data>
 		<key>Headers/PlaybookSDK.h</key>
 		<data>
@@ -18,67 +18,67 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		L5yKPuiQmFZLPp7j65cllGAx7WY=
+		cIRJSipKOwdDtPksv2Ls5E7Nm2o=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
-		kKIKXeNynhf6lbMB/4jaDrm2ha8=
+		8ad+dMAkE/fO0CspVLEWWWP7uTg=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		0uF1c0n0GkC7Hur7tiHY15ohO3E=
+		j6M1SXtz7yWV/KFF0zlkgq6V3DI=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		0uF1c0n0GkC7Hur7tiHY15ohO3E=
+		j6M1SXtz7yWV/KFF0zlkgq6V3DI=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		kKIKXeNynhf6lbMB/4jaDrm2ha8=
+		8ad+dMAkE/fO0CspVLEWWWP7uTg=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<data>
-		kKIKXeNynhf6lbMB/4jaDrm2ha8=
+		8ad+dMAkE/fO0CspVLEWWWP7uTg=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
-		5YCBmwJrI6mvUE8VzJcIW40iJg8=
+		nc7yVOgJim3pFi6NpWe2Cwnf+BQ=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		pgaMYkMZehCg2ua3BDNgF7uWPK4=
+		oizcboopKzEvSCuNOjmicayWC1k=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		usWOU/s7TFLCm37SU7l7FlaEcmg=
+		l9nQHtTrENch9LZ74lUx/tyJmQ8=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ijNrnNgMJzVw4ECycE/M998k37M=
+		Loyzla/7e5AYWFTNi+dQlRniwAA=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		usWOU/s7TFLCm37SU7l7FlaEcmg=
+		l9nQHtTrENch9LZ74lUx/tyJmQ8=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ijNrnNgMJzVw4ECycE/M998k37M=
+		Loyzla/7e5AYWFTNi+dQlRniwAA=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		5YCBmwJrI6mvUE8VzJcIW40iJg8=
+		nc7yVOgJim3pFi6NpWe2Cwnf+BQ=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		pgaMYkMZehCg2ua3BDNgF7uWPK4=
+		oizcboopKzEvSCuNOjmicayWC1k=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		5YCBmwJrI6mvUE8VzJcIW40iJg8=
+		nc7yVOgJim3pFi6NpWe2Cwnf+BQ=
 		</data>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		pgaMYkMZehCg2ua3BDNgF7uWPK4=
+		oizcboopKzEvSCuNOjmicayWC1k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -111,22 +111,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FXTiYV9pIQLQPoU6fVq2Vbf6d4Y=
+			QM9i+9PVLXq50NF7WKPZ95+BWqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			QyceR1pGdeK8tZo9roVyNtjTRT7EqkZN5BHJZtndeTw=
+			w5OUhmEx1Rhth1k9W2TnVtYzavWIVqD7mwBkFlVTuYk=
 			</data>
 		</dict>
 		<key>Headers/PlaybookSDK-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+SoJC87XIJwo8TqTS5Jx31nwSq4=
+			RFtW/vz/HJdH3IPEB8U8LPYo3QU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ALx8ddxQhfyAGci90/99igYFi4BZ1HEikwBQqabcky8=
+			Guk70axnEnsky4i1WI873yYLxTPH55CCS5avSQySXY8=
 			</data>
 		</dict>
 		<key>Headers/PlaybookSDK.h</key>
@@ -144,165 +144,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kKIKXeNynhf6lbMB/4jaDrm2ha8=
+			8ad+dMAkE/fO0CspVLEWWWP7uTg=
 			</data>
 			<key>hash2</key>
 			<data>
-			d7nbNuSdTlxskpj22uXgN1dc4YY6PIyWZr5K1R6aX4U=
+			rg0AqxTKDqCSwEqYoeRNtA2SWhliYCiHoPM2CrHPfCQ=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0uF1c0n0GkC7Hur7tiHY15ohO3E=
+			j6M1SXtz7yWV/KFF0zlkgq6V3DI=
 			</data>
 			<key>hash2</key>
 			<data>
-			X1J5GBORB2LSr+6LKs3p38TgY63XXoqQPHylEIn556s=
+			+j7SfPcTlcn71+0o4yPP4JSHpaulU50Xat373V9gG6A=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0uF1c0n0GkC7Hur7tiHY15ohO3E=
+			j6M1SXtz7yWV/KFF0zlkgq6V3DI=
 			</data>
 			<key>hash2</key>
 			<data>
-			X1J5GBORB2LSr+6LKs3p38TgY63XXoqQPHylEIn556s=
+			+j7SfPcTlcn71+0o4yPP4JSHpaulU50Xat373V9gG6A=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kKIKXeNynhf6lbMB/4jaDrm2ha8=
+			8ad+dMAkE/fO0CspVLEWWWP7uTg=
 			</data>
 			<key>hash2</key>
 			<data>
-			d7nbNuSdTlxskpj22uXgN1dc4YY6PIyWZr5K1R6aX4U=
+			rg0AqxTKDqCSwEqYoeRNtA2SWhliYCiHoPM2CrHPfCQ=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kKIKXeNynhf6lbMB/4jaDrm2ha8=
+			8ad+dMAkE/fO0CspVLEWWWP7uTg=
 			</data>
 			<key>hash2</key>
 			<data>
-			d7nbNuSdTlxskpj22uXgN1dc4YY6PIyWZr5K1R6aX4U=
+			rg0AqxTKDqCSwEqYoeRNtA2SWhliYCiHoPM2CrHPfCQ=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5YCBmwJrI6mvUE8VzJcIW40iJg8=
+			nc7yVOgJim3pFi6NpWe2Cwnf+BQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			plPniL4g8h1WXONvmE1Cw3n9uYJ++2w9FkrO9kbtoK4=
+			NqJl4ElYDwQ3jfClKUdRP1oXmTKvOV1kgjwn2HUGVDU=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pgaMYkMZehCg2ua3BDNgF7uWPK4=
+			oizcboopKzEvSCuNOjmicayWC1k=
 			</data>
 			<key>hash2</key>
 			<data>
-			7eRdzu87p/W+eKMUoBL9WiHsBmn6hEv5OtYvrRMlAUU=
+			QcGUYvMJZ80mCnZGYUcsGH3P5xA68THPrgGjfc2VvKQ=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			usWOU/s7TFLCm37SU7l7FlaEcmg=
+			l9nQHtTrENch9LZ74lUx/tyJmQ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			6pj2CjpzhxVZkO+av2b34Hyf0mt9MCiPvrYenZL1WjM=
+			tljdRxokkxfCAoxryoBmd3Nita7KSzosCr2/mybAZZc=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ijNrnNgMJzVw4ECycE/M998k37M=
+			Loyzla/7e5AYWFTNi+dQlRniwAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			kv/Luegr+HXrjDputp45xIIZ5nhrqX1yV+V5ZcKf86s=
+			Xft7MZwkCbm+QhFb7ngC22E7eUeYj9C/vElVcH4b878=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			usWOU/s7TFLCm37SU7l7FlaEcmg=
+			l9nQHtTrENch9LZ74lUx/tyJmQ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			6pj2CjpzhxVZkO+av2b34Hyf0mt9MCiPvrYenZL1WjM=
+			tljdRxokkxfCAoxryoBmd3Nita7KSzosCr2/mybAZZc=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ijNrnNgMJzVw4ECycE/M998k37M=
+			Loyzla/7e5AYWFTNi+dQlRniwAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			kv/Luegr+HXrjDputp45xIIZ5nhrqX1yV+V5ZcKf86s=
+			Xft7MZwkCbm+QhFb7ngC22E7eUeYj9C/vElVcH4b878=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5YCBmwJrI6mvUE8VzJcIW40iJg8=
+			nc7yVOgJim3pFi6NpWe2Cwnf+BQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			plPniL4g8h1WXONvmE1Cw3n9uYJ++2w9FkrO9kbtoK4=
+			NqJl4ElYDwQ3jfClKUdRP1oXmTKvOV1kgjwn2HUGVDU=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pgaMYkMZehCg2ua3BDNgF7uWPK4=
+			oizcboopKzEvSCuNOjmicayWC1k=
 			</data>
 			<key>hash2</key>
 			<data>
-			7eRdzu87p/W+eKMUoBL9WiHsBmn6hEv5OtYvrRMlAUU=
+			QcGUYvMJZ80mCnZGYUcsGH3P5xA68THPrgGjfc2VvKQ=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5YCBmwJrI6mvUE8VzJcIW40iJg8=
+			nc7yVOgJim3pFi6NpWe2Cwnf+BQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			plPniL4g8h1WXONvmE1Cw3n9uYJ++2w9FkrO9kbtoK4=
+			NqJl4ElYDwQ3jfClKUdRP1oXmTKvOV1kgjwn2HUGVDU=
 			</data>
 		</dict>
 		<key>Modules/PlaybookSDK.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pgaMYkMZehCg2ua3BDNgF7uWPK4=
+			oizcboopKzEvSCuNOjmicayWC1k=
 			</data>
 			<key>hash2</key>
 			<data>
-			7eRdzu87p/W+eKMUoBL9WiHsBmn6hEv5OtYvrRMlAUU=
+			QcGUYvMJZ80mCnZGYUcsGH3P5xA68THPrgGjfc2VvKQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
