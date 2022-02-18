@@ -4,14 +4,14 @@
 
 #### CocoaPods
 
-Current version of **PlaybookSDK** is v1.4.3
+Current version of **PlaybookSDK** is v1.5.6
 ```
-pod "PlaybookSDK", :git => 'https://github.com/getplaybook/Playbook-iOS-SDK.git', :tag => '1.4.3'
+pod "PlaybookSDK", :git => 'https://github.com/getplaybook/Playbook-iOS-SDK.git', :tag => '1.5.6'
 ```
 
 #### Initialize PlaybookSDK
 
-Initialize Playbook SDK with your settings information and open the Playbook Modal from any UIController. Here you'll need 3 critical information - your **SDK Token**, an **ID for your user** (given by you) and **the user group(s)** the user belongs to. 
+Initialize Playbook SDK with your settings information and open the Playbook Modal from any UIController. Here you'll need 3 critical information - your **SDK Token**, an **ID for your user** (given by you) and **the user group(s)** the user belongs to.
 
 In your `UIApplicationDelegate` class you can setup playbook SDK with following code blocks:
 
@@ -19,18 +19,18 @@ In your `UIApplicationDelegate` class you can setup playbook SDK with following 
 
 func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         ...
-        
+
         /**
          Playbook Config
          */
-         
+
          // Language Configurations
          PlaybookSDK.set(availableLocales: [
                 Locale(identifier: "EN"), // Default Language
                 Locale(identifier: "DE"),
                 Locale(identifier: "TR")
         ])
-         
+
         // General Configurations
         PlaybookSDK.set(
             token: "...", // Your SDK token from app.getplaybook.io -> Settings -> App Settings
@@ -38,7 +38,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
             userGroups: ["..."], // An array of user group ids from app.getplaybook.io -> User Groups -> External ID, External ID = 1 is for the Everyone User group
             companyName: "Acme Academy" // Your Company Name
         )
-        
+
         /* This method is optional */
         PlaybookSDK.extraSettings(PBExraSettingsData(
             spinnerColor: UIColor(red: 1.00, green: 0.85, blue: 0.10, alpha: 1.00),
@@ -51,7 +51,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
                 "en": "Supercharge your skills with these short guides in various categories.",
                 "tr": "Çeşitli konu ve kategorilerdeki kısa rehberler ile kendini geliştir."
             ]
-            QRModule: true, 
+            QRModule: true,
             updateModule: true
         ))
         ...
